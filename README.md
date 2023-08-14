@@ -1,6 +1,6 @@
 # Spotify Playlist Analysis with Python
 
-Welcome to the Spotify API Playlist project! This project aims to help you analyze and manipulate your Spotify playlists using Python and the Spotify Web API.
+Welcome to the Spotify Playlist Analyser project! This project aims to help you analyze and manipulate your Spotify playlists using Python and the Spotify Web API.
 
 ## Table of Contents
 
@@ -40,8 +40,8 @@ Aspiring data analysts like myself can use this project to practice Python progr
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/danj0nes/SpotifyAPI-Playlist-Project.git
-   cd SpotifyAPI-Playlist-Project
+   git clone https://github.com/danj0nes/Spotify-Playlist-Analyser.git
+   cd Spotify-Playlist-Analyser
    ```
 2. Install the required libraries using the commands mentioned above.
 
@@ -70,7 +70,7 @@ Aspiring data analysts like myself can use this project to practice Python progr
 
 The project follows a structured organization:
 
-SpotifyAPI-Playlist-Project/
+Spotify-Playlist-Analyser/
 <br>├── SpotifyAPI.py
 <br>├── playlist_analysis.py
 <br>├── playlist_maker.py
