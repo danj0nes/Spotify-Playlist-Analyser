@@ -36,9 +36,9 @@ def get_spotifyObject(clientID, clientSecret, redirect_uri):
     """
     # Create a SpotifyOAuth object for authentication
     auth_manager = spotipy.SpotifyOAuth(
-        clientID,        # Replace with your Spotify API client ID
-        clientSecret,    # Replace with your Spotify API client secret
-        redirect_uri     # Replace with your redirect URI for authentication
+        clientID,   
+        clientSecret,   
+        redirect_uri   
     )
     
     # Create a Spotify API object using the authentication manager
